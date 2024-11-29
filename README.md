@@ -1,5 +1,7 @@
 # css_lab
-This repository has codes for my Computer Systems Security study. The list is as follows:
+Codes for my Computer Systems Security study on various encryption algorithms. 
+
+The list is as follows:
 1. Implementation of Affine Cipher
 2. Implementation of Playfiar Cipher
 3. Multiplication of 2 polynomials using a given irreducible polynomial (GF(2^8))
